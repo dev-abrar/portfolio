@@ -472,6 +472,9 @@ ul.navbar-nav {
 	margin-left: 0;
 	padding-right: 0;
 }
+.year {
+width: 120px !important;
+}
 .rc-schedule-bottom p {
 	margin-top: 45px;
 }
